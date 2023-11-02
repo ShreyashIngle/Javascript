@@ -116,17 +116,19 @@
 
 // console.log(arr1[1]);
 
-let arr3 = new Array(1,2,3,4,5,6,7);
+// let arr3 = new Array(1,2,3,4,5,6,7);
 
-arr3.push(8);
-arr3.push(9);
-arr3.push(10);
+// arr3.push(8);
+// arr3.push(9);
+// arr3.push(10);
 
-let newarray = arr3.slice(1,4);
-console.log(newarray);
+// let newarray = arr3.slice(1,4);
+// console.log(newarray);
 
-arr3.splice(2,3)//deletes 3 4 5
-arr3.reverse();
-arr3.shift()//removes first element form array
-arr3.shift()//removes second element form array
-console.log(arr3);
+// arr3.splice(2,3)//deletes 3 4 5
+// arr3.reverse();
+// arr3.shift()//removes first element form array
+// arr3.shift()//removes second element form array
+// console.log(arr3);
+
+
