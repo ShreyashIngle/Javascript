@@ -102,12 +102,10 @@
 //     ++i;
 // } while (i<10);
 
-
 //ARRAYS
 
 // let arr =[13,412,51,53,24,1,4];
 // let arr1 =["shreyash","Ingle"];
-
 
 // for (let i = 0; i < arr.length; i++) {
 //     const element = arr[i];
@@ -131,4 +129,18 @@
 // arr3.shift()//removes second element form array
 // console.log(arr3);
 
+// const arr = {
+//   0: "shreyash",
+//   1: "Rajesh",
+//   2: "Ingle",
+//   male: true,
+//   name: "shreyash",
+// };
 
+// arr.college = "PICT"; //to add new key in an array
+
+// console.log(arr[0]);
+// console.log(arr[1]);
+// console.log(arr.male);
+// console.log(arr.name);
+// console.log(arr.college);
