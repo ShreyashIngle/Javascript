@@ -144,3 +144,28 @@
 // console.log(arr.male);
 // console.log(arr.name);
 // console.log(arr.college);
+
+// function addition(x ,y) {
+//     let add = x+y;
+//     console.log(add);
+// }
+
+// addition(24,13)
+
+// function Even(arr) {
+    
+//     for (let i  = 0; i  < arr.length; i ++) {
+//         const element = arr[i];
+//         if (arr[i]%2 == 0) {
+//             console.log("Even: "+arr[i])
+//         }
+//         else{
+//             console.log("Odd: "+arr[i])
+//         }
+//     }
+// };
+
+// let arr = [1,2,3,4,5,6,7,8,9,10]
+
+// Even(arr);
+
