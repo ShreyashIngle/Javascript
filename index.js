@@ -145,7 +145,7 @@
 // console.log(arr.name);
 // console.log(arr.college);
 
-// function addition(x ,y) {
+// const myfunc = function addition(x ,y) {
 //     let add = x+y;
 //     console.log(add);
 // }
@@ -168,4 +168,19 @@
 // let arr = [1,2,3,4,5,6,7,8,9,10]
 
 // Even(arr);
+
+
+// function totalArray(arr1 = []){
+
+//     let total = 0;
+//     for (let i = 0; i < arr1.length; i++) {
+//        total = total + arr1[i];
+       
+
+//     }
+
+//     return total;
+// }
+
+// console.log(totalArray([1,2,3,4,5]))
 
