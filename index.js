@@ -196,7 +196,6 @@
 // thisone.style.backgroundColor = "cyan";
 // thisone.style.paddingLeft = "10%"
 
-
 // const mybtn = document.getElementById("mybtn");
 
 // mybtn.style.padding = "10px 30px 10px";
@@ -205,7 +204,18 @@
 // const text = document.createTextNode("Shreyash")
 // const h2 = document.createElement("h2")
 
-
 // h2.append(text)
 
 // document.body.prepend(h2)
+
+// const mybtn = document.getElementById("mybtn");
+
+// mybtn.onclick = prompt1;
+// function prompt1() {
+//     if (mybtn) {
+//         console.log("lavda")
+//         prompt();
+        
+//     }
+// }
+
