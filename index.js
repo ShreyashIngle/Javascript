@@ -190,3 +190,22 @@
 // console.log(document.getElementsByClassName("hi"))
 
 // console.log(document.getElementsByName("name"))
+
+// const thisone = document.getElementById("thisone");
+
+// thisone.style.backgroundColor = "cyan";
+// thisone.style.paddingLeft = "10%"
+
+
+// const mybtn = document.getElementById("mybtn");
+
+// mybtn.style.padding = "10px 30px 10px";
+
+// const text = document.createTextNode("Sample text");
+// const text = document.createTextNode("Shreyash")
+// const h2 = document.createElement("h2")
+
+
+// h2.append(text)
+
+// document.body.prepend(h2)
