@@ -153,7 +153,7 @@
 // addition(24,13)
 
 // function Even(arr) {
-    
+
 //     for (let i  = 0; i  < arr.length; i ++) {
 //         const element = arr[i];
 //         if (arr[i]%2 == 0) {
@@ -169,14 +169,11 @@
 
 // Even(arr);
 
-
 // function totalArray(arr1 = []){
 
 //     let total = 0;
 //     for (let i = 0; i < arr1.length; i++) {
 //        total = total + arr1[i];
-       
-
 //     }
 
 //     return total;
@@ -184,3 +181,12 @@
 
 // console.log(totalArray([1,2,3,4,5]))
 
+//VAR can be used outside the function and LET cannot be used outside it is local to the function
+
+//DOM MANUPULATION ADVANCED
+// console.log(thisone)
+// console.log(document.getElementById("thisone"))
+
+// console.log(document.getElementsByClassName("hi"))
+
+// console.log(document.getElementsByName("name"))
