@@ -49,3 +49,7 @@ console.log(name.indexOf("s"));
 var name2 = "   shreyash   "
 
 console.log(name2.trim()) // removes the left and right characters
+
+//split
+
+console.log(fullname.split(" "))
