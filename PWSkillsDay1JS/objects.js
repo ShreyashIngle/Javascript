@@ -38,3 +38,6 @@ for (let i in person) {
 
 console.log(Object.keys(person))
 console.log(Object.values(person))
+
+//get both key and value
+console.log(Object.entries(person))
